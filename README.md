@@ -4,20 +4,14 @@ This is a **Work-In-Progress** Repo for learning how monitor your kubernetes clu
 
 Both Prometheus and Grafana have a very good documentation 
 
-[Prometheus Docs]("https://prometheus.io/docs/introduction/overview/")
+[Prometheus Docs](https://prometheus.io/docs/introduction/overview/)
 
-[Grafana Docs]("https://grafana.com/docs/grafana/latest/")
+[Grafana Docs](https://grafana.com/docs/grafana/latest/)
 
 ## Pre-Requisite
-
-- Kubernetes Cluster (can be minikube)
-- Helm 
-
-If you don't have them installed. Follow the below links:
-
-[Install Minikube]("https://minikube.sigs.k8s.io/docs/start/")
-
-[Install Helm]("https://helm.sh/docs/intro/install/")
+Follow the links to install these requisites:
+- [Kubernetes Cluster (minikube)](https://minikube.sigs.k8s.io/docs/start/)
+- [Helm](https://helm.sh/docs/intro/install/)
 
 <br></br>
 
